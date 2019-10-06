@@ -7,6 +7,6 @@ Simple Game Lobby
 
 Game Play Screen
 
-![Simple Game Screen](image/play.png)
+![Simple Game Screen](image/game_screen.png)
 
 
