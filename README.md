@@ -2,6 +2,11 @@
 
 Simple 2d game using paygame with python
 
+___Install PyGame Library First___
+    
+    pip install pygame
+   
+    
 ## Run
 
 In order to run this program, it is crucial that you are on a __Linux-based__ distro, preferably __Windows__.
