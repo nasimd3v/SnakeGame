@@ -17,12 +17,14 @@ Change directory, and then run the python script (__Linux OS__):
     
     
 __OR__
+
 portable file you can run on __Windows__:
     
-    Dubble click on lobby.exe
+    Dubble click on SnakeGame/build/lobby.exe
 
 __Linux os__
-
+    
+    cd SnakeGame/build/
     sudo ./lobby
 
 
